@@ -16,4 +16,4 @@ Sometimes while working on your .NET application you need to build a generic fil
 <br/>
 
 ## Authors:
-[Ahmed Tarek Hasan](https://linkedin.com/in/atarekhasan)
+* [Ahmed Tarek Hasan](https://linkedin.com/in/atarekhasan)
